@@ -1,0 +1,4 @@
+﻿  ProjeDeneme2.cpp
+C:\Users\ASUS\Desktop\OpenGL\ProjeDeneme2\ProjeDeneme2\ProjeDeneme2.cpp(173,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ProjeDeneme2.vcxproj -> C:\Users\ASUS\Desktop\OpenGL\ProjeDeneme2\x64\Debug\ProjeDeneme2.exe
